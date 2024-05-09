@@ -2,7 +2,7 @@
 
 This project builds a website for a fictional agency, MinimalAgency, using HTML and CSS. 
 
-![Minimal Agency Project Thumbnail](https://raw.githubusercontent.com/sajjadahmadi4/minimalagency/main/minimalagencythumbnail.jpg)
+![Minimal Agency Project Thumbnail](https://raw.githubusercontent.com/sajjadahmadi4/minimalagency/main/minimalagency_thumbnail.jpg)
 
 **What's Included:**
 
